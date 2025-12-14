@@ -1,5 +1,5 @@
 <div align="center">
- <h3> 🎭👋 About Me </h3></div>
+ <h3> 👋 About Me </h3></div>
 
 <div align="left">
 I'm Evelyn , a passionate developer and a student at Bunda Mulia University. I love exploring data science and contributing to meaningful projects. Welcome to my GitHub profile!
@@ -10,24 +10,23 @@ I'm Currently based in Indonesia, I am pursuing my studies at Bunda Mulia Univer
 <hr>
 
  
-### 🎈🧧 What I do in Github ?
+### What I do in Github ?
 
-<h4> I contribute to open source 💖🎯</h4>
+<h4> I contribute to open source </h4>
 <ul>
- <li>🔭 I’m currently working on something cool and exciting 😉</li>
- <li>🌱 I’m currently learning Deep Learning</li>
- <li>💬 Ask me about anything related to Python, Data Analytics or Machine Learning</li>
- <li>📫 How to reach me: evelynfer9992@gmail.com</li>
+ <li> I’m currently learning Deep Learning</li>
+ <li> Ask me about anything related to Python, Data Analytics or Machine Learning</li>
+ <li> How to reach me: evelynfer9992@gmail.com</li>
 </ul>
 <hr>
 
-### 🎯 My Skills:
+### My Skills:
 <ol>
   
-  <li>Data Science enthusiast📊🖥</li>
-  <li>Machine Learning enthusiast (with special emphasis on regressions and trees)🌳⛰️</li>
-  <li>Deep Learning enthusiast (Perceptrons and their biases are my addiction)🧠🏻</li>
-  <li>Streamlit Webapps developer📱</li>
+  <li>Data Science enthusiast</li>
+  <li>Machine Learning enthusiast</li>
+  <li>Deep Learning enthusiast </li>
+  <li>Streamlit Webapps developer</li>
   
   </ol>
 <hr>
@@ -35,7 +34,7 @@ I'm Currently based in Indonesia, I am pursuing my studies at Bunda Mulia Univer
 <div align="center">
     
 
-### 🖥 Programming Languages known:
+### Programming Languages known:
   
 <table>
   <tr>
