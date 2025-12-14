@@ -26,7 +26,7 @@ I'm Currently based in Indonesia, I am pursuing my studies at Bunda Mulia Univer
   <li>Data Science enthusiast</li>
   <li>Machine Learning enthusiast</li>
   <li>Deep Learning enthusiast </li>
-  <li>Streamlit Webapps developer</li>
+  <li>Streamlit Webapps Developer</li>
   
   </ol>
 <hr>
