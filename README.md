@@ -48,7 +48,7 @@ I'm Currently based in Indonesia, I am pursuing my studies at Bunda Mulia Univer
   </table>
   
   
-### 🛠🔧⚙ Techs, Frameworks and Tools I work on:
+### Techs, Frameworks and Tools I work on:
 <table>
   <tr>
     <td>
