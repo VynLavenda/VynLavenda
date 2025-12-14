@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-I'm **Evelyn Evelyn**, a passionate developer and a student at **Bunda Mulia University**. I love exploring data science and contributing to meaningful projects. Welcome to my GitHub profile!
+I'm **Evelyn**, a passionate developer and a student at **Bunda Mulia University**. I love exploring data science and contributing to meaningful projects. Welcome to my GitHub profile!
 
 ## About Me
 
