@@ -9,17 +9,6 @@ My focus is on data analysis and machine learning, and I enjoy tackling real-wor
 
 <hr>
 
-### My Skills:
-<ol>
-  
-  <li>Data Science enthusiast</li>
-  <li>Machine Learning enthusiast</li>
-  <li>Deep Learning enthusiast </li>
-  <li>Streamlit Webapps Developer</li>
-  
-  </ol>
-<hr>
-
 <div align="center">
     
 
