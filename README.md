@@ -4,7 +4,7 @@
 <div align="left">
 I'm Evelyn , Data Science student in Indonesia. I love exploring data science and contributing to meaningful projects. Welcome to my GitHub profile!
 
-I'm Currently based in Indonesia, I am pursuing my studies at Bunda Mulia University. My focus is on data analysis and machine learning, and I enjoy tackling real-world challenges through coding and data exploration.
+My focus is on data analysis and machine learning, and I enjoy tackling real-world challenges through coding and data exploration.
 </div>
 
 <hr>
