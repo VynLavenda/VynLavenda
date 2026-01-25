@@ -9,17 +9,6 @@ My focus is on data analysis and machine learning, and I enjoy tackling real-wor
 
 <hr>
 
- 
-### What I do in Github ?
-
-<h4> I contribute to open source </h4>
-<ul>
- <li> I’m currently learning Deep Learning</li>
- <li> Ask me about anything related to Python, Data Analytics or Machine Learning</li>
- <li> How to reach me: evelynfer9992@gmail.com</li>
-</ul>
-<hr>
-
 ### My Skills:
 <ol>
   
